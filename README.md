@@ -145,3 +145,6 @@ Built a full-stack fintech dashboard using React, FastAPI, PostgreSQL, and JWT a
 - Add PDF monthly reports
 - Add automated backend and frontend tests
 - Deploy frontend, backend, and PostgreSQL database
+
+## Screenshots
+https://1drv.ms/f/c/aea637a29f1641fe/IgDY_m3YTnSgTYBA9tNyjdztAdG2F5zyDMvg4z2mjbxqWaU?e=pjT1y6
