@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: fintrack-api
+    env: docker
+    rootDir: backend
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PROJECT_NAME
+        value: FinTrack API
+      - key: DATABASE_URL
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: BACKEND_CORS_ORIGINS
+        sync: false
